@@ -9,4 +9,20 @@
 - 📫 How to reach me: ... brian14martinez@hotmail.com. Please put in the subject: "Github Contact: + whatever you want.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I think that Ricardo Arjona is Overrated
+
+
+
+
+100 days of Coding 
+
+Day 1 - 19/04/22
+
+Started the Udemy course "JavaScript Moderno Guía Definitiva Construye +15 Proyectos" (But there are really 20 projects).
+Downloaded the VisualStudio Code IDE and started to learn the syntax of Javascript programming language.
+Created a readme file in a new repository with my name. I will modify it later to have it as my personal CV on GitHub.
+
+Thoughts: very motivated. Started this trend along with my friend Marwin. This course is exactly what I need to start creating my portfolio.
+
+
+
 -->
