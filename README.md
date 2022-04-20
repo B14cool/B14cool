@@ -1,4 +1,4 @@
-### This is what I'm currently workking on 👋
+### This is what I'm currently working on 👋
 
 
 - 🔭 I’m currently working on ... on a 100 days of coding challenge along with my friend @marwinmarte
