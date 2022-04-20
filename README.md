@@ -1,7 +1,7 @@
 ### This is what I'm currently workking on 👋
 
 
-- 🔭 I’m currently working on ... on a 100 days of coding challange along with my friend @marwinmarte
+- 🔭 I’m currently working on ... on a 100 days of coding challenge along with my friend @marwinmarte
 - 🌱 I’m currently learning ... Javascript
 - 👯 I’m looking to collaborate on ... An app for customers and business owners to schedule appointments
 - 🤔 I’m looking for help with ... experience on 
